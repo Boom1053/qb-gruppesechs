@@ -1,14 +1,18 @@
-# qb-garbagejob
- This is an edited version of qb-garagejob to allow the player to use qb-target and qb-radialmenu.
+# qb-gruppesechs
+ This is an edited version of *qb-garagejob*
  
- Pretty straight forward. Player gets truck from targeting ped. Drive to dumpster and use target to get the bag. Then, use target to put the bag inside the truck.
+ Pretty straight forward. Player gets truck from targeting ped. Drive to bank and use the target to get the bag. Then, use target to put the bag inside the truck.
  
- If you have any questions, reach out to me on the QBCore Framework Discord
+ If you have any questions, reach out to me on my discord
+
+ https://discord.gg/S9tRGm8NSD
  
- Name - Mackaelroni#9537
- 
- Discord - https://discord.gg/pKUZvJBxq4
- 
+ Credits to 
+ Kakarot#2550
+ Mackaelroni#9537
+ Berkiebb
+ Jay ;)#6969
+
  This is my first, edited, release with QBCore. I hope you guys enjoy!
  
 # Dependecies
