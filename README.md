@@ -68,6 +68,19 @@ Put this snippet inside Config.Peds in qb-target/config.lua
             },
         },
 
+ Put this in shared.lua in qb-core/shared.lua
+	['gruppesechs'] = {
+        label = 'Gruppe 6',
+        defaultDuty = true,
+        offDutyPay = false,
+        grades = {
+            ['0'] = {
+                name = 'Collector',
+                payment = 50
+            },
+        },
+    },        
+
 
 # License
 
