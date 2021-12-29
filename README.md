@@ -1,5 +1,5 @@
 # qb-gruppesechs
- This is an edited version of *qb-garagejob*
+ This is an edited version of *qb-garbagejob*
  
  Pretty straight forward. Player gets truck from targeting ped. Drive to bank and use the target to get the bag. Then, use target to put the bag inside the truck.
  
