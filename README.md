@@ -8,9 +8,13 @@
  https://discord.gg/S9tRGm8NSD
  
  Credits to 
+
  Kakarot#2550
+
  Mackaelroni#9537
+
  Berkiebb
+ 
  Jay ;)#6969
 
  This is my first, edited, release with QBCore. I hope you guys enjoy!
