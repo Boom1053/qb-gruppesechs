@@ -160,15 +160,6 @@ local function AnimCheck()
     end)
 end
 
-local function TakeAnim()
-    local ped = PlayerPedId()
-    LoadAnimation('missfbi4prepp1')
-    TaskPlayAnim(ped, 'missfbi4prepp1', '_bag_walk_garbage_man', 6.0, -6.0, -1, 49, 0, 0, 0, 0)
-    gruppesechsObject = CreateObject(`prop_money_bag_01`, 0, 0, 0, true, true, true)
-    AttachEntityToEntity(gruppesechsObject, ped, GetPedBoneIndex(ped, 57005), 0.38, -0.3, -0.2, 220.0, 120.0, 0.0, true, true, false, true, 1, true)
-    AnimCheck()
-end
-
 local function DeliverAnim()
     local ped = PlayerPedId()
     LoadAnimation('missfbi4prepp1')
