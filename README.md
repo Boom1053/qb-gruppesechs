@@ -9,13 +9,13 @@
  
  Credits to 
 
- Kakarot#2550
+ Kakarot#2550 | https://github.com/GhzGarage
 
- Mackaelroni#9537
+ Mackaelroni#9537 | https://github.com/MahmoodHensem
 
- Berkiebb
+ Berkiebb | https://github.com/BerkieBb/
  
- Jay ;)#6969
+ Jay ;)#6969 | https://github.com/jay-fivem
 
  This is my first, edited, release with QBCore. I hope you guys enjoy!
  
