@@ -44,29 +44,30 @@ Put this snippet inside Config.Peds in qb-target/config.lua
 
         ["GruppeSechsPed"] = {
             model = 's_m_m_armoured_02', 
-            coords = vector4(-349.96, -1569.92, 25.22, 296.46),
+            coords = vector4(-4.04, -659.41, 33.48, 186.04),
             minusOne = true, 
             freeze = true, 
             invincible = true, 
             blockevents = true,
             target = { 
-                options = {
-                    {
-                        type = "client",
-                        event = "gruppesechs:getTruck",
-                        icon = "fas fa-sign-in-alt",
-                        label = "Get Gruppe Sechs Truck",
-                    },
-                    {
-                        type = "server",
-                        event = "gruppesechs:server:PayShift",
-                        icon = "fas fa-sign-in-alt",
-                        label = "Collect Pay Check",
-                    },
-                },
-                distance = 1.5,
+            options = {
+            {
+                type = "client",
+                event = "gruppesechs:getTruck",
+                icon = "fas fa-sign-in-alt",
+                label = "Get Gruppe Sechs Truck",
+	            job = "gruppesechs",
+            },
+            {
+                type = "server",
+                event = "gruppesechs:server:PayShift",
+                icon = "fas fa-sign-in-alt",
+                label = "Collect Pay Check",
+	            job = "gruppesechs",					
             },
         },
+        distance = 1.5,
+    },
 
  Put this in shared.lua in qb-core/shared.lua
  
